@@ -13,7 +13,7 @@ public class Elvis {
 
 	// This code would normally appear outside the class!
 	public static void main(String[] args) {
-		//TODO: 
+		//TODO: algo 5
 		Elvis elvis = Elvis.INSTANCE;
 		elvis.leaveTheBuilding();
 	}
