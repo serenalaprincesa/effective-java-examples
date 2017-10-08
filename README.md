@@ -1,4 +1,4 @@
-# Effective Java Examples
+# Effective Java Examples - test
 
 This are the souces from the book "Effective Java Second Edition", written by Joshua Bloch.
 
