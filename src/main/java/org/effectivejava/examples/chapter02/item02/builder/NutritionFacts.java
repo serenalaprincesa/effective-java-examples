@@ -16,7 +16,7 @@ public class NutritionFacts {
 
 		// Optional parameters - initialized to default values
 		private int calories = 0;
-		private int fat = 0;
+		private int fat = 10;
 		private int carbohydrate = 0;
 		private int sodium = 0;
 
