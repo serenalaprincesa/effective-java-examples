@@ -5,7 +5,7 @@ public class NutritionFacts {
 	private final int servingSize; // (mL) required
 	private final int servings; // (per container) required
 	private final int calories; // optional
-	private final int fat; // (g) optional
+	private final int fat; // (g) optionals
 	private final int sodium; // (mg) optional
 	private final int carbohydrate; // (g) optional
 
